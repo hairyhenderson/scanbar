@@ -1,2 +1,2 @@
 # scanbar
-Look for barcodes in the webcam ¯\_(ツ)_/¯
+Look for barcodes in the webcam ¯\\\_(ツ)_/¯
