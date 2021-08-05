@@ -1,0 +1,4 @@
+gocv.io/x/gocv v0.22.0 h1:pv+tcjcoW/xsaM/nfrzMK5PEEHYe2ND/LQRoyBpgjsg=
+gocv.io/x/gocv v0.22.0/go.mod h1:7Ju5KbPo+R85evmlhhKPVMwXtgDRNX/PtfVfbToSrLU=
+gopkg.in/bieber/barcode.v0 v0.0.0-20150426000244-ea9099fd9d91 h1:n7y/Af2p/fIIjjncM9SPckdyYNN9WfQLz49YdTNxQk4=
+gopkg.in/bieber/barcode.v0 v0.0.0-20150426000244-ea9099fd9d91/go.mod h1:9WKYr7Nt5Q94A5D29TL35n9IC687WO3NrTFY5gYdJZY=
