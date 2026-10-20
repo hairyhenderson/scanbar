@@ -1,6 +1,6 @@
 module github.com/hairyhenderson/scanbar
 
-go 1.16
+go 1.27.3
 
 require (
 	gocv.io/x/gocv v0.22.0
